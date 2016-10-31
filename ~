@@ -1,0 +1,39 @@
+Merge remote-tracking branch 'refs/remotes/origin/master'
+
+# Conflicts:
+#	assets/css/main.css
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 7 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	deleted:    assets/css/main.css
+#
+# Changes not staged for commit:
+#	modified:   .DS_Store
+#
+# Untracked files:
+#	.swp
+#	assets/css/.DS_Store
+#	assets/css/main.css
+#	assets/css/main.css.orig
+#	assets/css/main_BACKUP_1671.css
+#	assets/css/main_BASE_1671.css
+#	assets/css/main_BASE_1767.css
+#	assets/css/main_LOCAL_1671.css
+#	assets/css/main_LOCAL_1767.css
+#	assets/css/main_REMOTE_1671.css
+#	assets/css/main_REMOTE_1767.css
+#

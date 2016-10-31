@@ -1396,8 +1396,7 @@
 	}
 
 	body {
-	/*	background: #2e3842; */
-		background:yellow;
+		background: #2e3842;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3813,12 +3812,3 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
-
-
-	path {
-display:block;
- fill: black;
- stroke: yellow;
- stroke-width: 3px;
- stroke-dasharray: 9000;
-}
