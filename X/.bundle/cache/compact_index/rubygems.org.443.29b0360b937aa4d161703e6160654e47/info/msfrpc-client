@@ -1,5 +1,0 @@
----
-1.0.0 librex:>= 0.0.32,msgpack:>= 0.4.5|checksum:6723b0802b93d063e5dccc99a20178663c46244437f5637f03d90d48209cf0a4
-1.0.1 librex:>= 0.0.32,msgpack:>= 0.4.5|checksum:0c3eabce9c3a5deba9f65ff638df43c03aaf934df68ece5c347cfd9de541bf4e
-1.0.2 librex:>= 0.0.70&~> 0.0.70,msgpack:>= 0.5.8&~> 0.5.8|checksum:256327d338c074728ee9e304b93007e4ecd3a7891fe9b588b03846cca6c9bfed
-1.0.3 librex:>= 0.0.70&~> 0.0.70,msgpack:>= 0.5.8&~> 0.5.8|checksum:66b60aa2d536346000231363765928b5233f13729fcbf2426903865c5ae70280
