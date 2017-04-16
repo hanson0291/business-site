@@ -1,0 +1,36 @@
+2014-08-24 11:59:12,668 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 13380
+2014-08-24 11:59:42,696 - daemon - ERROR - Received badauth response for account hanson0291
+2014-08-25 08:18:41,750 - daemon - INFO - Stopping Dyn Updater Daemon version 5.1.0 with PID 13380
+
+2014-08-30 10:14:44,672 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 557
+2014-08-30 10:14:45,879 - daemon - ERROR - An error occurred processing the API request.
+Traceback (most recent call last):
+  File "/lib/daemon/api/response.py", line 73, in __call__
+  File "/lib/daemon/api/commands.py", line 760, in get
+  File "/lib/daemon/nicupdate.py", line 530, in get_ipaddress
+  File "/lib/daemon/nicupdate.py", line 142, in _call_checkip
+  File "/lib/daemon/nicupdate.py", line 243, in _dns_lookup
+LookupError: unknown encoding: idna
+2014-08-30 10:38:39,961 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 553
+2014-08-30 13:31:02,877 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 551
+2014-08-31 00:52:59,318 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 525
+2014-08-31 11:16:12,340 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 534
+2014-08-31 18:14:36,138 - daemon - INFO - Cleaning up stale daemon PID file.
+2014-08-31 18:14:37,505 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 539
+2014-08-31 18:14:37,686 - daemon - ERROR - An error occurred processing the API request.
+Traceback (most recent call last):
+  File "/lib/daemon/api/response.py", line 73, in __call__
+  File "/lib/daemon/api/commands.py", line 760, in get
+  File "/lib/daemon/nicupdate.py", line 530, in get_ipaddress
+  File "/lib/daemon/nicupdate.py", line 142, in _call_checkip
+  File "/lib/daemon/nicupdate.py", line 243, in _dns_lookup
+LookupError: unknown encoding: idna
+2014-09-01 11:28:38,845 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 553
+2014-09-01 12:16:11,179 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 524
+2014-09-01 22:58:32,442 - daemon - INFO - Dyn Updater Daemon version 5.1.0 started with PID 532
+2014-09-03 17:24:18,264 - daemon - ERROR - Failed to find IP address at checkip.dyndns.org
+Traceback (most recent call last):
+  File "/lib/daemon/nicupdate.py", line 167, in _call_checkip
+AttributeError: 'NoneType' object has no attribute 'string'
+2014-09-04 22:13:48,442 - daemon - INFO - Stopping Dyn Updater Daemon version 5.1.0 with PID 532
+

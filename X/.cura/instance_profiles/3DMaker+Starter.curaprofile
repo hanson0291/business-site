@@ -1,0 +1,25 @@
+[general]
+version = 1
+name = Current settings
+weight = 0
+type = machine_instance_profile
+
+[settings]
+infill_sparse_density = 0.0
+material_flow = 107
+material_bed_temperature = 80
+material_print_temperature = 250
+layer_height = 0.04
+speed_topbottom = 15
+retraction_amount = 6.5
+speed_infill = 80
+
+[defaults]
+material_flow = 107
+material_bed_temperature = 80
+material_print_temperature = 250
+layer_height = 0.04
+speed_topbottom = 15
+retraction_amount = 6.5
+speed_infill = 80
+
